@@ -17,6 +17,20 @@
           "Contibute"
         ]
       }
+    ],
+    "dropdowns": [
+      {
+        "dropdown": "test",
+        "pages": [
+          {
+            "group": "kolioaris.xyz",
+            "pages": [
+              "Home",
+              "Contibute"
+            ]
+          }
+        ]
+      }
     ]
   },
   "logo": {
