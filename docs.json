@@ -65,5 +65,14 @@
       "youtube": "https://youtube.com/@kolioaris",
       "discord": "https://discord.com/cUc9gpsaUF"
     }
+  },
+  "icons": {
+    "library": "lucide"
+  },
+  "background": {
+    "decoration": "grid"
+  },
+  "fonts": {
+    "family": "Inter"
   }
 }
